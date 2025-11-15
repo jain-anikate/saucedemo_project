@@ -26,7 +26,13 @@ Logs in, extracts all item details from the Inventory page, saves them to JSON, 
 - Fully automated installation using `requirements.txt`
 
 ---
-
+### steps to run project
+  1. Install Python 3.8+ and ensure `python` is on PATH.
+  2. Open CMD and navigate to the project folder:
+     cd /d C:\path to saucedemo_pytest_automation
+  3. Run:
+     run_tests.bat
+     
 # Project Structure
 
 saucedemo_pytest_automation/
